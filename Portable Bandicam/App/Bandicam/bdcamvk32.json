@@ -1,0 +1,12 @@
+{
+  "file_format_version" : "1.0.0",
+  "layer": {
+    "name": "VK_LAYER_bandicam_helper",
+    "type": "GLOBAL",
+    "library_path": ".\\bdcamvk32.dll",
+    "api_version": "1.2.141",
+    "implementation_version": "1",
+    "description": "Vulkan Bandicam Helper",
+    "disable_environment": { "DISABLE_VK_LAYER_bandicam_helper_1": "1" }
+  }
+}
