@@ -1,4 +1,4 @@
-***This method is probably patched, please use the portable one.***
+***The activation method is probably patched, please use the portable one.***
 *The portable version is 100% virus-free*
 
 *Worth noting that I don't own any of the applications 
