@@ -1,4 +1,4 @@
-***The activation method is probably patched, please use the portable one.***
+***The activation method is probably patched, thats why i deleted it so please use the portable one.***
 
 *The portable version is 100% virus-free(scanned it with my antivirus,Eset smart security premium)*
 
